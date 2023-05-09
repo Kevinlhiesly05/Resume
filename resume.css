@@ -182,6 +182,9 @@ gap: 2rem;
   font-weight: 300;
   gap: 2rem;
 }
+.project-link a {
+  color: #01e0bb;
+}
 /* Awards */
 .awards_item {
   margin-top: 2rem;
